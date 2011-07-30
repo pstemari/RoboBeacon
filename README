@@ -1,0 +1,4 @@
+Basic beacon for use with the Wowwee Rovio. Pushbutton activates
+aiming lists, if held down (>2 seconds), you can use it to set the
+beacon id. Push 1-9 times to set id 1-9, hold down >2 seconds again to
+save.
