@@ -1,5 +1,7 @@
 # Hey Emacs, this is a -*- makefile -*-
 #----------------------------------------------------------------------------
+# RoboBeacon makefile, based on
+#
 # WinAVR Makefile Template written by Eric B. Weddington, Jörg Wunsch, et al.
 #
 # Released to the Public Domain
